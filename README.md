@@ -1,14 +1,14 @@
 # Ali Beirami
 
 ## About Me ℹ️
-I am a passionate software developer with expertise in front-end and back-end technologies. I have a strong background in building scalable web applications and a keen interest in exploring new technologies. I also have experience in AI development in Python and game development with Unity.
+I am a passionate software developer with expertise in front-end and back-end technologies. With a background in building web applications. Additionally, I have experience in game development with Unity. I am constantly seeking opportunities to expand my knowledge and skills in AI and data science, and I am eager to contribute to projects in these exciting fields.
 
 ## Skills 🚀
-- Programming Languages: JavaScript, Python
-- Frontend Technologies: HTML, CSS, React
+- Programming Languages: Python
 - Backend Technologies: Django
+- AI Development: Python, Pytorch
 - Database Management: SQL, MongoDB
-- - AI Development: Python, Scikit-learn
+- Frontend Technologies: HTML, CSS, React
 - Game Development: Unity, C#
 - Version Control: Git
 
