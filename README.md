@@ -13,8 +13,9 @@ I am a passionate software developer with expertise in front-end and back-end te
 - Version Control: Git
 
 ## Projects 🛠️
-- [Project 1](https://github.com/AliBeiramiii/nfc-galaxy): An e-commerce platform developed with React and Django
-- [Project 2](https://github.com/AliBeiramiii/laser-blaster2): Game developed in Unity using C
+- [Project 1](https://github.com/AliBeiramiii/Chatbot-Ollama3): local Llama3 8b chatbot
+- [Project 2](https://github.com/AliBeiramiii/nfc-galaxy): An e-commerce platform developed with React and Django
+- [Project 3](https://github.com/AliBeiramiii/laser-blaster2): Game developed in Unity using C
 - [Project 4](https://github.com/AliBeiramiii/corner-detector): AI vision project implemented in Python using OpenCV
 
 ## Experience 💼
