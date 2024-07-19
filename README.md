@@ -1,10 +1,10 @@
 # Ali Beirami
 
 ## About Me ℹ️
-I am a passionate software developer with expertise in front-end and back-end technologies. With a background in building web applications. Additionally, I have experience in game development with Unity. I am constantly seeking opportunities to expand my knowledge and skills in AI and data science, and I am eager to contribute to projects in these exciting fields.
+I'm a data scientist passionate about using data to solve real-world problems and build innovative solutions. I am constantly seeking opportunities to expand my knowledge and skills in AI and data science.
 
 ## Skills 🚀
-- AI Development: Python, Pytorch
+- AI Development: Python, Scikit-learn
 - Programming Languages: Python
 - Backend Technologies: Django
 - Database Management: SQL, MongoDB
@@ -12,9 +12,9 @@ I am a passionate software developer with expertise in front-end and back-end te
 
 ## Projects 🛠️
 - [Project 1](https://github.com/AliBeiramiii/Chatbot-Ollama3): Local Llama3 8b chatbot
-- [Project 2](https://github.com/AliBeiramiii/nfc-galaxy): An e-commerce platform developed with React and Django
-- [Project 3](https://github.com/AliBeiramiii/laser-blaster2): Game developed in Unity using C
-- [Project 4](https://github.com/AliBeiramiii/corner-detector): AI vision project implemented in Python using OpenCV
+- [Project 2](https://github.com/parsasarfarazi/Machine-Learning): Machine Learning Model Comparison App 
+- [Project 3](https://github.com/AliBeiramiii/nfc-galaxy): An e-commerce platform developed with React and Django
+- [Project 4](https://github.com/AliBeiramiii/laser-blaster2): Game developed in Unity using C
 
 
 ## Education 🎓
